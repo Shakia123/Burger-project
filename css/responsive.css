@@ -51,6 +51,9 @@
 	.r-title h1{
 		font-size: 36px;
 	}
+	.form-group button{
+		padding: 14px 106px;
+	}
 	.footer-box {
     	padding: 0px 22px;
     	padding-top: 26px;
@@ -107,6 +110,9 @@
 	}
 	.form-group input {
     	padding: 16px 4px;
+	}
+	.form-group button {
+    padding: 12px 34px!important;
 	}
 	.footer-box img{
 		width: 50%;
